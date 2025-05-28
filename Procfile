@@ -1,0 +1,1 @@
+worker: python narine_gpt_bot.py
